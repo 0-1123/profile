@@ -42,9 +42,9 @@ h2 {
 }
 
 .profile_pic {
-  width: 120px;
+  width: 133px;
   border-radius: 50%;
-  border: 2px solid rgb(111, 111, 111);
+  box-shadow: 0 7px 17px rgba(0,0,0,.1);
 }
 
 .white_card {
